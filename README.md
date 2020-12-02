@@ -66,6 +66,7 @@ https://rpmfusion.org/Configuration
 
 # execute
 sudo dnf config-manager --enable PowerTools
+
 sudo dnf install broadcom-wl
 
 # restart 
